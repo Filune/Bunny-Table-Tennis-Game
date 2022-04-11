@@ -1,5 +1,5 @@
 # Bunny-Table-Tennis
-A sweet table tennis game made with PyGame!
+A sweet table tennis game made with PyGame! It was made during my studies at KTH.
 
 # How do I run the game?
 In order to run this game, you'll need to have Python 3.8 (or higher) & PyGame module installed.
